@@ -102,4 +102,4 @@ Menampilkan 5 pemain dengan skor tertinggi.
 ## Video Presentasi
 
 YouTube:
-(Link Video)
+(https://youtu.be/8KckiKXD93Q)
