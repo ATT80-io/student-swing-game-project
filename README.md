@@ -83,19 +83,19 @@ Menampilkan 5 pemain dengan skor tertinggi.
 ## Screenshot
 
 ### 1. Login
-![](screenshots/loginFrame.png)
+![](screenshoots/loginFrame.png)
 
 ### 2. Main Menu
-![](screenshots/mainMenuFrame.png)
+![](screenshoots/mainMenuFrame.png)
 
 ### 3. Game
-![](screenshots/gameFrame.png)
+![](screenshoots/gameFrame.png)
 
 ### 4. Statistics
-![](screenshots/statisticFrame.png)
+![](screenshoots/statisticFrame.png)
 
 ### 5. Top Scorers
-![](screenshots/topScoreFrame.png)
+![](screenshoots/topScoreFrame.png)
 
 ---
 
